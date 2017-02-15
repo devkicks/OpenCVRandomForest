@@ -1,0 +1,10 @@
+3D Road Network (North Jutland, Denmark) Data Set
+
+http://archive.ics.uci.edu/ml/datasets/3D+Road+Network+%28North+Jutland%2C+Denmark%29
+
+3D_Spatial_InputFeatures
+LONGITUDE: Web Mercaptor (Google format) longitude
+LATITUDE: Web Mercaptor (Google format) latitude
+
+3D_Spatial_TargetVariable.dat
+ALTITUDE: Height in meters. 

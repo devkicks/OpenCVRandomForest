@@ -1,0 +1,13 @@
+Airfoil Self-Noise Data Set
+
+http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise
+
+AirFoil_InputFeatures
+Frequency, in Hertzs.
+Angle of attack, in degrees.
+Chord length, in meters.
+Free-stream velocity, in meters per second.
+Suction side displacement thickness, in meters.
+
+AirFoil_TargetVariable
+Scaled sound pressure level, in decibels. 
