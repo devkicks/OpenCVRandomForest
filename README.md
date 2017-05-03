@@ -9,6 +9,8 @@ Pre-requisites
 ==============
 
 - OpenCV 2.x (Included in repo)
+or
+- OpenCV 3.x (Not Included in repo)
 
 Usage
 =====
@@ -68,6 +70,7 @@ Possible extension of this code include:
 - Improve debugging options 
 - Try a different Energy function
 - use OMP to parallelize the training
+- Utilization of SIMD on resource constraint devices
 - make the tree options available to user; currently these options are encapsulated by CRForest class
 
 
